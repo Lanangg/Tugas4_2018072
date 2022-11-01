@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MobilePrak_Tugas3</string>
+    <string name="product_name1">Neon</string>
+    <string name="deskription_neon">Lampu neon digunakan untuk menerangi ruangan yang luas. Lampu neon ini berukuran 40cm</string>
+    <string name="daya_neon">Daya yang dibutuhkan untuk lampu ini sebesar 33 Watt</string>
+    <string name="price_neon">Harga</string>
+    <string name="Price_neon">Rp. 10.000</string>
+    <string name="rating_neon">4.6</string>
+
+    <string name="product_name2">Stop Kontak</string>
+    <string name="deskription_stopkontak">Stop kontak digunakan untuk mencolokkan arus listrik tambahan menggunakan kabel panjang</string>
+    <string name="price_stopkontak">Harga</string>
+    <string name="Price_stopkontak">Rp. 30.000</string>
+    <string name="rating_stopkontak">4.7</string>
+
+    <string name="product_name3">Fitting Lampu</string>
+    <string name="deskription_fitting">Fitting lampu digunakan untuk meletakkan lampu bohlam kedalamnya. Fitting lampu banyak digunakan di rumah-rumah zaman sekarang</string>
+    <string name="price_fitting">Harga</string>
+    <string name="Price_fitting">Rp. 20.000</string>
+    <string name="rating_fitting">4.6</string>
+
+    <string name="product_name4">Led Strip</string>
+    <string name="deskription_strip">Led strip digunakan untuk menghias ruangan dengan lampunya yang panjang. </string>
+    <string name="daya_strip">Daya yang dibutuhkan untuk lampu ini sebesar 20 Watt</string>
+    <string name="price_strip">Harga</string>
+    <string name="Price_strip">Rp. 35.000</string>
+    <string name="rating_strip">4.5</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+</resources>
